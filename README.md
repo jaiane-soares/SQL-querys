@@ -20,5 +20,4 @@ O repositório é dividido em módulos independentes por cenário de negócio. C
 ```text
 ├── cenário-de-negócio/
 │   ├── esquema.sql         # Script de criação de tabelas, chaves e restrições (DDL)
-│   ├── consultas.sql       # Arquivo dedicado a queries de consulta e relatórios (DQL)
 │   └── mer-diagrama.png    # Representação visual/diagrama do Modelo Entidade-Relacionamento
