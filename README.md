@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Sobre o Repositório
+## 📌 Sobre o repositório
 
 Este repositório foi desenvolvido para centralizar, organizar e documentar diferentes estudos de caso envolvendo a modelagem de bancos de dados relacionais e a escrita de consultas SQL (DDL, DML e DQL). 
 
@@ -13,7 +13,7 @@ O foco principal é estruturar soluções eficientes para problemas de negócios
 
 ---
 
-## 📂 Estrutura de Organização
+## 📂 Estrutura de organização
 
 O repositório é dividido em módulos independentes por cenário de negócio. Cada diretoria possui a seguinte árvore estrutural:
 
